@@ -1,6 +1,7 @@
 layout: page
 title: "Contact Me"
-permalink: /about/contact
+permalink: /contact/
+theme: jekyll-theme-midnight
 
 Contact Page Information
 
